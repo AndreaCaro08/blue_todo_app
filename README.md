@@ -1,16 +1,37 @@
 # my_app
+# 💙 BlueDoodleApp
 
-A new Flutter project.
+A modern and minimal Blue-themed To-Do application built using Flutter.
+This project was developed as part of my Flutter internship to demonstrate clean UI design, task management functionality, and GitHub workflow.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Add new tasks  
+- Edit existing tasks  
+- Delete tasks  
+- Swipe to remove  
+- Smooth animations  
+- Clean blue UI theme  
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="assets/images/todoapp1.png" width="250">
+  <img src="assets/images/todoapp2.png" width="250">
+  <img src="assets/images/todoapp3.png" width="250">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- Flutter  
+- Dart  
+- Material Design  
+- Git & GitHub  
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/your-username/BlueDoodleApp.git
+cd blue_todo_app
+flutter pub get
+flutter run
