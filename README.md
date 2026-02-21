@@ -1,5 +1,5 @@
 # my_app
-# 💙 BlueDoodleApp
+# 💙 Blue_ToDo_App
 
 A modern and minimal Blue-themed To-Do application built using Flutter.
 This project was developed as part of my Flutter internship to demonstrate clean UI design, task management functionality, and GitHub workflow.
@@ -31,7 +31,7 @@ This project was developed as part of my Flutter internship to demonstrate clean
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/BlueDoodleApp.git
+git clone https://github.com/AndreaCaro08/blue_todo_app.git
 cd blue_todo_app
 flutter pub get
 flutter run
